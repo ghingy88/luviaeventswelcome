@@ -110,7 +110,7 @@ p.construction {
 /* iphone 14pro */
 @media (max-width: 480px) {
   .background {
-    background: url('background1.png') no-repeat center center fixed;
+    background: url('public/background1.PNG') no-repeat center center fixed;
     background-size: cover;
     filter: brightness(35%) blur(2px); /* Slightly brighter and blurred for readability */
   }
