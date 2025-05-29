@@ -88,6 +88,24 @@ p.construction {
 }
 
 
+@media (max-width: 1200px) {
+  .luviatitle {
+    font-size: 96px; /* Reduce title size for smaller screens */
+  }
+
+  h2 {
+    font-size: 1.8rem; /* Reduce subtitle size */
+  }
+
+  p {
+    font-size: 1.4rem; /* Reduce paragraph size */
+  }
+
+  .social-icons a {
+    font-size: 1.8rem; /* Reduce icon size */
+  }
+}
+
 /* Responsive Design for Smaller Screens */
 @media (max-width: 768px) {
   .luviatitle {
